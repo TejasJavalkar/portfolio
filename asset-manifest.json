@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio.git/static/css/main.31f11bb1.chunk.css",
+    "main.js": "/portfolio.git/static/js/main.aafcce24.chunk.js",
+    "main.js.map": "/portfolio.git/static/js/main.aafcce24.chunk.js.map",
+    "runtime-main.js": "/portfolio.git/static/js/runtime-main.a19b3913.js",
+    "runtime-main.js.map": "/portfolio.git/static/js/runtime-main.a19b3913.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/portfolio.git/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.caf33b97.chunk.js": "/portfolio.git/static/js/2.caf33b97.chunk.js",
+    "static/js/2.caf33b97.chunk.js.map": "/portfolio.git/static/js/2.caf33b97.chunk.js.map",
+    "static/js/3.5ec8da8d.chunk.js": "/portfolio.git/static/js/3.5ec8da8d.chunk.js",
+    "static/js/3.5ec8da8d.chunk.js.map": "/portfolio.git/static/js/3.5ec8da8d.chunk.js.map",
+    "index.html": "/portfolio.git/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/portfolio.git/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.31f11bb1.chunk.css.map": "/portfolio.git/static/css/main.31f11bb1.chunk.css.map",
+    "static/js/2.caf33b97.chunk.js.LICENSE.txt": "/portfolio.git/static/js/2.caf33b97.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/portfolio.git/static/media/background.473bb277.jpg",
+    "static/media/gamepad.ddc867d7.png": "/portfolio.git/static/media/gamepad.ddc867d7.png",
+    "static/media/learning.0867eacb.png": "/portfolio.git/static/media/learning.0867eacb.png",
+    "static/media/stump.2a2cb32c.png": "/portfolio.git/static/media/stump.2a2cb32c.png",
+    "static/media/video.3830736b.png": "/portfolio.git/static/media/video.3830736b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a19b3913.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.caf33b97.chunk.js",
+    "static/css/main.31f11bb1.chunk.css",
+    "static/js/main.aafcce24.chunk.js"
+  ]
+}
