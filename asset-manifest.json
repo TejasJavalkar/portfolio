@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.8c52eba7.chunk.css",
-    "main.js": "/portfolio/static/js/main.3658488b.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.3658488b.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.5c8a5ec0.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.5c8a5ec0.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.5773ef7b.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.5773ef7b.js.map",
     "static/css/2.0a9ec390.chunk.css": "/portfolio/static/css/2.0a9ec390.chunk.css",
@@ -17,8 +17,8 @@
     "static/media/index.scss": "/portfolio/static/media/background.473bb277.jpg",
     "static/media/gamepad.ddc867d7.png": "/portfolio/static/media/gamepad.ddc867d7.png",
     "static/media/learning.0867eacb.png": "/portfolio/static/media/learning.0867eacb.png",
-    "static/media/pp.45fdefcd.jpg": "/portfolio/static/media/pp.45fdefcd.jpg",
     "static/media/stump.2a2cb32c.png": "/portfolio/static/media/stump.2a2cb32c.png",
+    "static/media/tejaspp.482be534.png": "/portfolio/static/media/tejaspp.482be534.png",
     "static/media/video.3830736b.png": "/portfolio/static/media/video.3830736b.png"
   },
   "entrypoints": [
@@ -26,6 +26,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.f6f3f49f.chunk.js",
     "static/css/main.8c52eba7.chunk.css",
-    "static/js/main.3658488b.chunk.js"
+    "static/js/main.5c8a5ec0.chunk.js"
   ]
 }
